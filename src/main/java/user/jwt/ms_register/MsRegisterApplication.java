@@ -10,4 +10,6 @@ public class MsRegisterApplication {
 		SpringApplication.run(MsRegisterApplication.class, args);
 	}
 
+
+
 }
